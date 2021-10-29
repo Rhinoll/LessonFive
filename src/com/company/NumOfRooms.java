@@ -11,4 +11,3 @@ public class NumOfRooms extends Home{
         this.RoomNumb = RoomNumb;
 
     }
-}
